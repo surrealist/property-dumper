@@ -1,0 +1,10 @@
+C:\NugetDemo\GF.PropertyDumper.WinForms.Sample\Sample\bin\Debug\Sample.exe.config
+C:\NugetDemo\GF.PropertyDumper.WinForms.Sample\Sample\bin\Debug\Sample.exe
+C:\NugetDemo\GF.PropertyDumper.WinForms.Sample\Sample\bin\Debug\Sample.pdb
+C:\NugetDemo\GF.PropertyDumper.WinForms.Sample\Sample\bin\Debug\GF.PropertyDumper.dll
+C:\NugetDemo\GF.PropertyDumper.WinForms.Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\NugetDemo\GF.PropertyDumper.WinForms.Sample\Sample\obj\Debug\Sample.Form1.resources
+C:\NugetDemo\GF.PropertyDumper.WinForms.Sample\Sample\obj\Debug\Sample.Properties.Resources.resources
+C:\NugetDemo\GF.PropertyDumper.WinForms.Sample\Sample\obj\Debug\Sample.csproj.GenerateResource.Cache
+C:\NugetDemo\GF.PropertyDumper.WinForms.Sample\Sample\obj\Debug\Sample.exe
+C:\NugetDemo\GF.PropertyDumper.WinForms.Sample\Sample\obj\Debug\Sample.pdb

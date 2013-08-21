@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>GF.PropertyDumper</id>
+    <version>0.1</version>
+    <title>GF.PropertyDumper</title>
+    <authors>Suthep</authors>
+    <owners>Suthep</owners>
+    <iconUrl>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn2/276907_120285444651033_923831610_n.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Just for experiment and study NuGet.</description>
+    <summary>Display all property values from a given object.</summary>
+    <tags>property object dumper</tags>
+  </metadata>
+</package>

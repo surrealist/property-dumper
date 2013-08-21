@@ -1,0 +1,8 @@
+C:\NugetDemo\PropertyDumper\GF.PropertyDumper.Sample\bin\Debug\GF.PropertyDumper.Sample.exe.config
+C:\NugetDemo\PropertyDumper\GF.PropertyDumper.Sample\bin\Debug\GF.PropertyDumper.Sample.exe
+C:\NugetDemo\PropertyDumper\GF.PropertyDumper.Sample\bin\Debug\GF.PropertyDumper.Sample.pdb
+C:\NugetDemo\PropertyDumper\GF.PropertyDumper.Sample\bin\Debug\GF.PropertyDumper.dll
+C:\NugetDemo\PropertyDumper\GF.PropertyDumper.Sample\bin\Debug\GF.PropertyDumper.pdb
+C:\NugetDemo\PropertyDumper\GF.PropertyDumper.Sample\obj\Debug\GF.PropertyDumper.Sample.csprojResolveAssemblyReference.cache
+C:\NugetDemo\PropertyDumper\GF.PropertyDumper.Sample\obj\Debug\GF.PropertyDumper.Sample.exe
+C:\NugetDemo\PropertyDumper\GF.PropertyDumper.Sample\obj\Debug\GF.PropertyDumper.Sample.pdb

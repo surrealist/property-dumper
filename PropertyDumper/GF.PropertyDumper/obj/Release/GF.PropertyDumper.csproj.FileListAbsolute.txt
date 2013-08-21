@@ -1,0 +1,4 @@
+C:\NugetDemo\PropertyDumper\GF.PropertyDumper\bin\Release\GF.PropertyDumper.dll
+C:\NugetDemo\PropertyDumper\GF.PropertyDumper\bin\Release\GF.PropertyDumper.pdb
+C:\NugetDemo\PropertyDumper\GF.PropertyDumper\obj\Release\GF.PropertyDumper.dll
+C:\NugetDemo\PropertyDumper\GF.PropertyDumper\obj\Release\GF.PropertyDumper.pdb
